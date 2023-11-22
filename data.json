@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Budapest Night",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et soluta error, sapiente mollitia harum ab id ut voluptatibus beatae natus laborum, aliquid reiciendis molestiae, suscipit quo facere! Id, dicta soluta.",
+    "src": "/images/budapest_night_photography-wallpaper-1920x1080.jpg",
+    "color": ["#BBACAF", "#a4959d", "#2f4858", "#8a808d"]
+  },
+  {
+    "title": "Waterfalls",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et soluta error, sapiente mollitia harum ab id ut voluptatibus beatae natus laborum, aliquid reiciendis molestiae, suscipit quo facere! Id, dicta soluta.",
+    "src": "/images/dream_places-wallpaper-1920x1080.jpg",
+    "color": ["#977F6D", "#906f6b", "#2f4858", "#80626c"]
+  },
+  {
+    "title": "Purple Dendrobium",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et soluta error, sapiente mollitia harum ab id ut voluptatibus beatae natus laborum, aliquid reiciendis molestiae, suscipit quo facere! Id, dicta soluta.",
+    "src": "/images/purple_dendrobium_orchids_flowers_outdoors-wallpaper-1920x1080.jpg",
+    "color": ["#7e3c25", "#7d3641", "#8987df", "#6d3a58"]
+  },
+  {
+    "title": "Black Stallion",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et soluta error, sapiente mollitia harum ab id ut voluptatibus beatae natus laborum, aliquid reiciendis molestiae, suscipit quo facere! Id, dicta soluta.",
+    "src": "/images/running_5-wallpaper-1920x1080.jpg",
+    "color": ["#962429", "#8c264e", "#ffe4df", "#713566"]
+  },
+  {
+    "title": "Sunset",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et soluta error, sapiente mollitia harum ab id ut voluptatibus beatae natus laborum, aliquid reiciendis molestiae, suscipit quo facere! Id, dicta soluta.",
+    "src": "/images/sunbeams_through_forest_trees_lake_reflection-wallpaper-1920x1080.jpg",
+    "color": ["#88A2B9", "#6ebacf", "#354e64", "#8181a6"]
+  }
+]
