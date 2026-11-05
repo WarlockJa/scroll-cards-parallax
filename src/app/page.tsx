@@ -4,7 +4,7 @@ import cardData from "../../data.json";
 import Card from "./component/Card";
 import { useScroll } from "framer-motion";
 import { useEffect, useRef } from "react";
-import Lenis from "@studio-freight/lenis";
+import Lenis from "lenis";
 
 export default function Home() {
   const mainRef = useRef(null);
